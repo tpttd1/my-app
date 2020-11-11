@@ -1,0 +1,9 @@
+.select-item {
+    padding: 10px;
+    margin: 0;
+    font-weight: 500;
+    border-bottom: 0.05rem solid #eee;
+    &:hover {
+        cursor: pointer;
+    }
+}
